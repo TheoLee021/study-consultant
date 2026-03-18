@@ -29,3 +29,6 @@ An evidence-based learning consultant that corrects study direction in real-time
 **Rules:** `.claude/rules/learning-consultant.md` (always active)
 
 **Design Spec:** `docs/design-spec.md`
+
+## 워크플로우
+- main에 직접 push 금지. 브랜치를 만들어서 PR로 보낼 것. 사용자가 직접 리뷰하고 머지.
